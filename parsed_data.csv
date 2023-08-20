@@ -1,0 +1,6 @@
+lat,lng,parcels
+35.19374172542247,-101.78632018002853,"[{'planar_coordinates': False, 'parcel_id': '1312329888', 'state': 'TX', 'apn': '90865', 'acreage': '2.74'}]"
+35.19440599157679,-101.78656060111118,"[{'planar_coordinates': False, 'parcel_id': '1312329404', 'state': 'TX', 'apn': '90854', 'acreage': '0.07'}]"
+35.19392402958427,-101.785425996377,"[{'planar_coordinates': False, 'parcel_id': '1312328699', 'state': 'TX', 'apn': '90864', 'acreage': '3.1'}]"
+35.19440599157679,-101.7853585941156,"[{'planar_coordinates': False, 'parcel_id': '1312329887', 'state': 'TX', 'apn': '90861', 'acreage': '0.14'}]"
+35.19341518571535,-101.78769751599926,"[{'planar_coordinates': False, 'parcel_id': '1312294263', 'state': 'TX', 'apn': '4741', 'acreage': '0.91'}]"
